@@ -6,7 +6,7 @@
 👋 With 18 years of sales experience and determined to transition into technology, I'm a student of Systems Information delving into HTML, CSS, and JavaScript courses. Combining sales expertise with technical skills to explore how technology drives sales strategies and transforms customer experiences.
 
 :brazil:
-👋 Com 18 anos de experiência em vendas e decido a  migrar para tecnologia, estudante de Sistemas de Informação e mergulhando em cursos de HTML, CSS e JavaScript. Combinando experiência em vendas com habilidades técnicas para explorar como a tecnologia impulsiona estratégias de vendas e transforma experiências do cliente.
+👋 Com 18 anos de experiência em vendas e decidido a  migrar para tecnologia, estudante de Sistemas de Informação e mergulhando em cursos de HTML, CSS e JavaScript. Combinando experiência em vendas com habilidades técnicas para explorar como a tecnologia impulsiona estratégias de vendas e transforma experiências do cliente.
 
 </div>
 
